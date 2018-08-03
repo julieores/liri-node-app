@@ -1,10 +1,6 @@
 # liri-node-app
 demo of git pages
 
-What the project does- 
-Why the project is useful- 
-How users can get started with the project- 
-Where users can get help with your project- 
-Who maintains and contributes to the project- 
+LIRI is a command line node app that takes in parameters and gives you back data. The project is useful because you can pull data from Twitter, Spotify, and OMDb APIs for your node app. Users can get started with the project by obtaining API keys. User can get help with the project by reviewing the code provided. Users can control the data by setting up specific parameters maintained in the object. 
 
- https://julieores.github.io/liri-node-app/
+https://julieores.github.io/liri-node-app/
